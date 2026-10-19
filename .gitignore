@@ -12,3 +12,4 @@ __pycache__/
 .terraform/
 *.tfstate
 *.tfstate.*
+rets_property.sql
